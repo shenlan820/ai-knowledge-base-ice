@@ -1,0 +1,13 @@
+{
+  "id": "2026-04-23-github-transformers",
+  "title": "transformers",
+  "source_url": "https://github.com/huggingface/transformers",
+  "summary": "Hugging Face Transformers 是状态-of-the-art 机器学习模型的定义框架，支持文本、视觉、音频和多模态模型的推理和训练。作为 NLP 和深度学习领域的基石项目，它提供了数千个预训练模型，包括 DeepSeek、Gemma、GLM、Qwen 等主流模型，是 AI 开发者的必备工具库。",
+  "tags": ["deep-learning", "llm", "machine-learning", "nlp", "pytorch", "transformer"],
+  "status": "published",
+  "score": 10,
+  "key_insights": ["行业标准库：已成为 Transformer 架构模型的事实标准，几乎所有 LLM 项目都依赖此库", "多模态支持：覆盖文本、视觉、音频三大模态，支持 VLM 等多模态模型训练和推理", "模型仓库生态：与 Hugging Face Model Hub 深度集成，提供一站式模型发现和使用体验"],
+  "popularity": 159817,
+  "source": "github",
+  "collected_at": "2026-04-23T00:00:00Z"
+}

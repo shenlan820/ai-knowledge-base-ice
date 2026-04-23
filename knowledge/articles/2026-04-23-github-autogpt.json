@@ -1,0 +1,13 @@
+{
+  "id": "2026-04-23-github-autogpt",
+  "title": "AutoGPT",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "summary": "AutoGPT 是一个开创性的自主 AI 代理框架，致力于让 AI 对每个人都可访问和使用。该项目提供了完整的工具链，使开发者能够构建和部署自主运行的 AI 代理。作为最早的 AI Agent 项目之一，AutoGPT 在 agentic AI 领域具有里程碑意义，支持多种大模型包括 GPT、Claude 和 Llama 系列。",
+  "tags": ["agentic-ai", "agents", "ai", "autonomous-agents", "llm", "openai"],
+  "status": "published",
+  "score": 10,
+  "key_insights": ["自主代理先驱：作为 agentic AI 领域的开创性项目，定义了自主 AI 代理的基本架构模式", "多模型支持：兼容 OpenAI、Anthropic、Llama 等多种主流大模型，具有良好的扩展性", "生态系统完善：183K+ stars 和 46K+ forks 表明拥有活跃的开发者社区和丰富的插件生态"],
+  "popularity": 183685,
+  "source": "github",
+  "collected_at": "2026-04-23T00:00:00Z"
+}

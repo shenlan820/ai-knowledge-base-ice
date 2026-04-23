@@ -1,0 +1,13 @@
+{
+  "id": "2026-04-23-github-metagpt",
+  "title": "MetaGPT",
+  "source_url": "https://github.com/FoundationAgents/MetaGPT",
+  "summary": "MetaGPT 是一个多代理框架，愿景是创建第一个 AI 软件公司，迈向自然语言编程。项目通过定义不同角色的 AI 代理（如产品经理、工程师、测试员），模拟软件公司的协作流程，实现从需求到代码的自动化。这是多代理协作领域的创新尝试，探索了 AI 自主完成复杂任务的可能性。",
+  "tags": ["agent", "llm", "multi-agent"],
+  "status": "published",
+  "score": 7,
+  "key_insights": ["多代理协作：定义角色化的代理系统，模拟真实团队的分工协作模式", "自然语言编程：用户只需用自然语言描述需求，系统自动生成完整软件", "软件公司隐喻：创新性地用组织架构思维设计 AI 系统，具有启发意义"],
+  "popularity": 67367,
+  "source": "github",
+  "collected_at": "2026-04-23T00:00:00Z"
+}

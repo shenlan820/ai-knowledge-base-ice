@@ -65,18 +65,24 @@ knowledge/articles/index.json
 ```json
 {
   "id": "2026-04-22-github-langchain",
-  "title": "标题",
+  "title": "项目名称",
   "url": "https://...",
   "source": "github",
   "popularity": 1500,
-  "summary": "摘要内容",
-  "key_insights": ["亮点 1", "亮点 2"],
+  "summary": "摘要内容（使用中文，1-3 句概述项目核心价值）",
+  "key_insights": ["亮点 1（使用中文）", "亮点 2（使用中文）"],
   "score": 8,
   "tags": ["llm", "agent-framework"],
   "collected_at": "2026-04-22T10:30:00Z",
   "status": "published"
 }
 ```
+
+### 语言要求
+- **summary**: 必须使用中文
+- **key_insights**: 必须使用中文
+- **title**: 保持原文（英文项目名保留英文，如 AutoGPT）
+- **tags**: 保持英文小写（便于检索和分类）
 
 ### 索引文件格式
 ```json

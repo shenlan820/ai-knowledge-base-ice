@@ -1,0 +1,86 @@
+{
+  "updated_at": "2026-04-23T00:00:00Z",
+  "total_count": 10,
+  "entries": [
+    {
+      "id": "2026-04-23-github-autogpt",
+      "title": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 10,
+      "tags": ["agentic-ai", "agents", "ai", "autonomous-agents", "llm", "openai"],
+      "file": "2026-04-23-github-autogpt.json"
+    },
+    {
+      "id": "2026-04-23-github-transformers",
+      "title": "transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "score": 10,
+      "tags": ["deep-learning", "llm", "machine-learning", "nlp", "pytorch", "transformer"],
+      "file": "2026-04-23-github-transformers.json"
+    },
+    {
+      "id": "2026-04-23-github-langchain",
+      "title": "langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "score": 9,
+      "tags": ["agents", "ai-agents", "framework", "generative-ai", "langgraph", "llm", "rag"],
+      "file": "2026-04-23-github-langchain.json"
+    },
+    {
+      "id": "2026-04-23-github-open-webui",
+      "title": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 9,
+      "tags": ["ai", "llm", "ollama", "rag", "self-hosted", "webui"],
+      "file": "2026-04-23-github-open-webui.json"
+    },
+    {
+      "id": "2026-04-23-github-browser-use",
+      "title": "browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "score": 8,
+      "tags": ["ai-agents", "browser-automation", "llm", "playwright"],
+      "file": "2026-04-23-github-browser-use.json"
+    },
+    {
+      "id": "2026-04-23-github-ragflow",
+      "title": "ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "score": 8,
+      "tags": ["agentic-ai", "context-engineering", "document-understanding", "graphrag", "llm", "rag"],
+      "file": "2026-04-23-github-ragflow.json"
+    },
+    {
+      "id": "2026-04-23-github-vllm",
+      "title": "vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "score": 8,
+      "tags": ["inference", "llm", "llm-serving", "model-serving", "pytorch", "transformer"],
+      "file": "2026-04-23-github-vllm.json"
+    },
+    {
+      "id": "2026-04-23-github-openhands",
+      "title": "OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "score": 7,
+      "tags": ["agent", "artificial-intelligence", "developer-tools", "llm", "openai"],
+      "file": "2026-04-23-github-openhands.json"
+    },
+    {
+      "id": "2026-04-23-github-llamafactory",
+      "title": "LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "score": 7,
+      "tags": ["fine-tuning", "llm", "lora", "peft", "qlora", "rlhf"],
+      "file": "2026-04-23-github-llamafactory.json"
+    },
+    {
+      "id": "2026-04-23-github-metagpt",
+      "title": "MetaGPT",
+      "url": "https://github.com/FoundationAgents/MetaGPT",
+      "score": 7,
+      "tags": ["agent", "llm", "multi-agent"],
+      "file": "2026-04-23-github-metagpt.json"
+    }
+  ]
+}
